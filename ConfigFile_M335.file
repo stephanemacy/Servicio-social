@@ -1,0 +1,27 @@
+###############################################################################
+#
+#               Configuration File for LakeShore Controller Model335
+#               LabDet-Criogenia
+#               ICN-UNAM
+#                   Mauricio Martinez
+#                   
+###############################################################################
+
+
+#Communication parameters
+Port: /dev/ttyUSB0
+BaudRate: 57600
+TimeOut:1
+
+#Channels
+Channel 1: A
+Channel 2: B
+
+#Set Point
+Set_Point Channel 1: 170
+
+
+
+
+
+
